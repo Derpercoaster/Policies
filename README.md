@@ -6,7 +6,7 @@
 
 The greatest shortcoming of the original guidelines is that they did not allow administrators to ban folks for many reasons that should rightfully result in a ban. In fact, they only allowed bans for bullying, spamming, or scamming. 
 
-This new set of policies aims to address that shortcoming by allowing bans for many more reasons. To be explicit: **These policies aim to guarantee that harmful views like fascism aren't advocated for, that their rhetoric isn't spread, and that proponents of them aren't allowed.**
+This new set of policies aims to address that shortcoming by allowing bans for many more reasons. To be explicit: **These policies aim to guarantee that views which are harmful to anyone (such as fascism) aren't advocated for, that their rhetoric isn't spread, and that proponents of them aren't allowed.**
 
 If you'd like to propose changes to these policies, simply [edit this file](https://github.com/KindPolitics/Policies/edit/accepted/README.md) on a new branch (named like `proposal/My-radical-changes`) and then create a new [pull request](https://docs.github.com/articles/using-pull-requests) targeting the `accepted` branch. Don't forget to tell the community about your proposal!
 
@@ -14,23 +14,15 @@ If you'd like to propose changes to these policies, simply [edit this file](http
 
 # I. The core of Kind Politics
 
-Kind Politics exists as a place where people can go to discuss their beliefs in good faith, even if they’ve been banned in other chats because of those beliefs. For example, if you've been banned from chats only for being pro-AI, you will still be allowed to discuss that here.
+Kind Politics exists as a place where people can go to discuss politics in good faith. This group aims to cut through rhetoric and get at the root of issues, rather than encouraging needless arguments based on opinion alone. The policies laid out here attempt to enable that **without allowing harmful views like fascism to propagate.**
 
-Kind Politics aims to cut through rhetoric and get at the root of issues.
-
-The policies laid out here attempt to enable that **without allowing harmful views like fascism to propagate.**
-
-Harmful views include (but are not limited to) those advocating mass harm, dehumanization, andor removal of fundamental rights from any person or group. Administrators have final discretion in determining what constitutes "harmful."
+Harmful views include (but are not limited to) advocating mass harm, dehumanization, discrimination against others based on religion/race/sex etc. and/or removal of fundamental rights from any person or group. Administrators have final discretion in determining what constitutes "harmful."
 
 
 
 ## (a) Uncomfortable topics
 
-By the very nature of Kind Politics, uncomfortable topics will be discussed. This alone is not reason for administrative action.
-
-If you aren’t willing/able to participate in a discussion because the topic is too uncomfortable, or because you’re having a strong and difficult emotional reaction, you’re encouraged to step away and take care of your mental health.
-
-Of course, discussions which are against the policies of Kind Politics are still not allowed, regardless of comfort level.
+By its very nature as a political chat, uncomfortable topics will be discussed here. If you aren’t willing/able to participate in a discussion because the topic is too uncomfortable, or because you’re having a strong and difficult emotional reaction, you’re encouraged to step away and take care of your mental health. Of course, discussions which are against the policies of Kind Politics are still not allowed, regardless of comfort level.
 
 
 
@@ -40,7 +32,7 @@ The point of Kind Politics is to be a community, and as such, policy changes can
 
 ### (i) Becoming an admin by discussion with existing admins
 
-If any community member wishes to become an administrator of Kind Politics, they may discuss that with the existing administrators. The existing administrators may choose amongst themselves whether to elevate that member to adminhood.
+If any community member wishes to become an administrator of Kind Politics, they may discuss that with the existing administrators. The existing administrators will discuss with each other whether or not the member is a good fit as an admin, based on their past behavior in the group. Behavior which violates the group guidelines may render someone unfit to become an administrator.
 
 ### (ii) Becoming an admin by community vote
 
@@ -59,16 +51,16 @@ If any community member wishes to become an administrator of Kind Politics, they
 	- If the existing admins agree that the candidate should gain adminhood, then the candidate will be made an administrator of Kind Politics
 	- If the admins still deny the candidate adminhood, the candidate must accept that result. The candidate may choose to restart this process again after waiting 1 year from the denial, but no less.
 
-Any retaliation against members for their votes will result in administrative action, possibly without warning.
+Any retaliation against members for their votes will result in administrative action, with a warning (unless the retaliatory behavior violates any of the community rules).
 
 ### (iii) Removing problematic administrators
 
-If an administrator consistently acts against these policies andor abuses their power, they may be removed through either of these processes:
+If an administrator acts against these policies andor abuses their power, their abilities as an administrator will be removed. If it is unclear whether they've abused their power, or if they have behaved in an unfair manner, they may be removed through either of these processes:
 
 1. **Admin Council Decision**
    - At least 66.6% + 1 of all other administrators must agree to the removal
    - The decision must be documented with specific citations of policy violations andor power abuses
-   - The removed admin may not be reinstated for at least 1 year
+   - The removed admin may not be reinstated for at least 1 year (unless it is clear they are unfit as admin)
 
 2. **Community Vote of No Confidence**
    - Any member may challenge a sitting administrator's position by calling for a vote of no confidence if they can demonstrate pattern evidence of policy violations or abuse
@@ -88,12 +80,20 @@ If an administrator consistently acts against these policies andor abuses their 
    - If the process results in removal, the administrator may not be reinstated for at least 1 year
    - Votes of no-confidence may not be called against the same administrator more often than once per quarter-year (3 months)
 
-Any retaliation against members for their votes will result in administrative action, possibly without warning.
+Any retaliation against members for their votes will result in administrative action, with a warning (unless the retaliatory behavior violates any of the community rules).
 
 ### (iv) Compromised admin account
 
 If an admin's account has been compromised, that account's admin privileges will be stripped until/unless the account has been recovered.
 
+
+### (v) Abandoned/deleted admin account
+
+If an admin is inactive for three months* or more, that account's admin privileges will be stripped until/unless they return.
+
+If an admin deletes their account, or can be verified as having abandoned it for three* months or more, that account's admin privileges will be stripped, and the account will be removed from the group to avoid any problems, and can be reinstated if the admin returns.
+
+*Three months is the maximum time frame. If any sufficient reason to remove admin privileges earlier can be determined, then it will be removed earlier. If the admin makes it clear to other admins they will be on hiatus, or will otherwise be busy for an extended period, their admin privileges will be temporarily removed until they return, to ensure the safety of the group should their account be compromised while they are away. 
 
 # II. No one is lesser by birth
 
@@ -103,7 +103,7 @@ Kind Politics does not allow racism, sexism, transphobia, homophobia, ableism, s
 
 # III. Genuine good-faith discussion is required
 
-If you’re gonna be here, you must genuinely discuss.
+Topics must be genuinely discussed. Simply posting news articles or making comments about events/people etc. is not enough; you must be willing to openly discuss the brought-up topic in a civil, respectful manner.
 
 You can’t just be there to spread hateful beliefs, you have to actually engage. Taunting, teasing, bringing unfounded claims, rejecting discussion, or otherwise trying to skirt these policies andor avoid genuine discussion, will result in a ban.
 
